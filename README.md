@@ -1,1 +1,1 @@
-# resum
+BSQ is a file parser, our program will receive one or more files, which are maps, in these maps, you will have to find the biggest square. We made our best so our BSQ can go as quick as possible, and use less memory as possible.
